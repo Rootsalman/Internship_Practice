@@ -1,0 +1,7 @@
+Perimeter of a square...
+Step1:start
+step2:Declare variables Side,Peri;
+step3:Read Side;
+step3:perform perimeter operation peri=4*a
+step4:dispalay peri;
+step 5:stop

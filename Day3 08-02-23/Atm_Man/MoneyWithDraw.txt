@@ -1,0 +1,13 @@
+Step1:Start
+Step2:Declare Atm_Card,Atm_pin,Amount
+step3:Read Atm_Card
+step4:intialize Atm_pin
+step5:check Atm_pin 
+      if(Atm_pin==****) if true go to 
+        step6 if the condition false go to step 8
+step6: if(Amount>0) go to step 7 
+       elseif(Amount<0) go to step 8         
+step7: enter the amount you need to withdraw
+step8: Insufficient Balance
+step8: invalid pin
+ 

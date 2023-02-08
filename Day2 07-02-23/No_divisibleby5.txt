@@ -1,0 +1,8 @@
+s1: start
+s2: declare a
+s3: read a
+s4:if a%5==0:
+           display a is divisible by 5
+    else
+           display a is not divisible by 5
+s5: stop

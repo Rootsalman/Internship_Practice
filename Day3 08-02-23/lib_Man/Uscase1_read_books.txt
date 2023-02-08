@@ -1,0 +1,10 @@
+Step1:Start
+Step2:Declare Book_name,std_id,Track_no
+step3:Read Book_name,std_id
+step4:intialize std_id=s1
+step5:check s1 value with Std_id if(s1=std_id) if 
+        true go to 
+        step6 if the condition false go to step 8
+step6: Student entry success else step7
+step7: Student enter Discarded
+step8: stop
