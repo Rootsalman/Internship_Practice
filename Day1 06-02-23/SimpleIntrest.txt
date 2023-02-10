@@ -1,7 +1,0 @@
-find simple Interest...
-Step1:start
-step2:Declare variables SI,P,R,T;
-step3:Read P,R,T;
-step3:perform simple intrest operation SI=P*(1+r*t)
-step4:dispalay SI;
-step 5:stop

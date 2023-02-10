@@ -1,7 +1,0 @@
-perimeter of rectangle..
-Step1:start
-step2:Declare variables len,wid,peri;
-step3:Read len,wid;
-step3:perform perimeter operation peri=2*(len+wid)
-step4:dispalay peri;
-step 5:stop
