@@ -1,0 +1,11 @@
+BEGIN
+     DECLARE ch
+     READ ch
+     IF (ch>='a' && ch<='z')THEN
+            DISPLAY "ch is alphabet";
+     ELSEIF (ch>='0' && ch<='9')
+            DISPLAY "ch is a digit";
+     ELSE
+            DISPLAY " ch is aspecial character"
+     ENDIF
+END

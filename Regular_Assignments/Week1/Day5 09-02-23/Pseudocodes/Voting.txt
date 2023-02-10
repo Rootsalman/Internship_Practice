@@ -1,0 +1,9 @@
+BEGIN
+     DECLARE ages;
+     READ ages;
+     IF (age>=18)THEN
+        DISPLAY "elligible for vote";
+     ELSE
+        DISPLAY "not elligble for vote"
+     ENDIF
+END

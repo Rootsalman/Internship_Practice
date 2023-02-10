@@ -1,0 +1,23 @@
+BEGIN
+     DECLARE Sub,Avgmarks,Per,Grade;
+     READ Sub1,Sub2,Sub3,Sub4,Sub5;
+     CALCULATE Avgmarks gain
+               Avgmarks=Sub1+Sub2+Sub3+Sub4+Sub5/5;
+     CALCULATE Marksgain
+               Marksgain=Sub1+Sub2+Sub3+Sub4+Sub5;
+     ASSIGN Totalmarks=TM;
+     CALCULATE Percentage
+               Per=Marksgain/TM*100;
+     CALCULATE Grades
+          IF(Per<=100 and Per>=90)THEN
+               DISPLAY "A Grade";
+          ELSEIF(Per<=90 and Per>=80)THEN
+               DISPLAY "B Grade";
+          ELSEIF(Per<=80 and Per>=70)THEN
+               DISPLAY "C Grade";
+          ELSEIF(Per<=70 and Per>=60)THEN
+               DISPLAY "D Grade";
+          ELSE
+               DISPLAY "Fail";
+          ENDIF
+END

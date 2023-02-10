@@ -1,0 +1,11 @@
+BEGIN
+     DECLARE a,b,c
+     READ a,b,c
+     IF (a>b) && (a>c) THEN
+              DISPLAY "a is bigger"
+     ELSE IF (b>a) && (b>c) THEN
+              DISPLAY "b is bigger"
+     ELSE
+              DISPLAY "c is bigger"
+     END IF
+END

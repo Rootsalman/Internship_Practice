@@ -1,0 +1,6 @@
+BEGIN
+    DECLARE Si,Princ,Rate,Time;
+    READ Princ,Rate,Time;
+    CALCULATE Si=Princ*(1+Rate*Time)
+    DISPLAY Si
+END

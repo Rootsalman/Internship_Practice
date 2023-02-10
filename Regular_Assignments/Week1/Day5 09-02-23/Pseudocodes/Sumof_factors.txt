@@ -1,0 +1,12 @@
+BEGIN
+DECLARE n,i,sum
+    READ n
+    INTIALISE i=0 Fact=0
+    WHILE (i<=n) DO
+             IF n%i==0 THEN
+                     CALCULATE Fact=Fact+i
+              END IF
+              i=i+1
+      END WHILE
+      DISPLAY Fact
+END 

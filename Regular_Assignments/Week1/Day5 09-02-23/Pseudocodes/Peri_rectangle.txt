@@ -1,0 +1,8 @@
+
+BEGIN
+     DECLARE length,width,peri;
+     READ length,width;
+     CALCULATE peri=2*(length+width);
+     DISPALY peri;
+END
+ 

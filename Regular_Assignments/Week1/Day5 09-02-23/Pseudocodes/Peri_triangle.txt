@@ -1,0 +1,8 @@
+
+BEGIN
+     DECLARE a,b,c,peri;
+     READ a,b,c;
+     CALCULATE peri=a+b+c;
+     DISPALY peri;
+END
+ 
