@@ -1,0 +1,87 @@
+  
+*What is JAVA?
+  Programming Language(we can communicate with computes)(high lang)
+   To perform a specific program.
+   1995 by james gosling and present Owned by Oracle
+*What is Software?
+  collection of instructions
+*Types of Software?
+*What is System Software?
+*What is Application Software?
+    Uses and applications of Both softwares
+*Diffrent Editions in Java
+   Java SE(Standard Edition)--------Desktop
+   Java EE(Enterprise Edition)----Web app,Enterprise
+   Java ME(Micro Edition)---Mobile app
+*Features of JAVA
+  -->Objrct Orientes
+      1)Object--Real world thing
+      2)Calss--contains properties and behaviors of an object
+  -->Encapsulation
+  --->Inheritance
+ --->Polymorphism
+ *JVM
+*Compiler,Interpreter
+----------------------------------------------------------------------------------------------------
+FEATURES OF JAVA
+1)Object Oriented
+   Everything in Java is an object. 
+   Object-oriented means we organize our software as a combination of different types of objects that incorporate both data and behavior.
+        Methods...
+   -->Object - Real world Examples
+   -->Class -  Contains the properties and behaviours of the object
+   -->Inheritance - mechanism in which one object acquires all the properties and behaviors of a parent object.
+   -->Polymorphism - concept by which we can perform a single action in different ways.
+   -->Encapsulation - process of wrapping code and data together into a single unit, //for example, a capsule which is mixed of several medicines.
+   -->Abstraction - process of hiding the implementation details and showing only functionality to the user.
+
+2)Simple
+    Java is very easy to learn, and its syntax is simple, clean and easy to understand.
+    -->There is no need to remove unreferenced objects because there is an Automatic Garbage Collection in Java.
+         Java Kit will provide all the set of libraries.
+
+3)Platform Independent
+    A platform is the hardware or software environment in which a program runs.
+    Java is platform independent because it is different from other languages like C, C++, etc.
+    which are compiled into platform specific machines while Java is a write once, run anywhere language.
+
+4)Secured
+    Java is best known for its security. With Java, we can develop virus-free systems. 
+    Java is secured because:
+    -->Java Programs run inside a virtual machine sandbox
+
+5)Portable
+    Java is portable because it facilitates you to carry the Java bytecode to any platform.
+    It doesn't require any implementation.
+
+6)High-Performance
+    Java is faster than other traditional interpreted programming languages because Java bytecode is "close" to native code. 
+    It is still a little bit slower than a compiled language (e.g., C++). 
+    Java is an interpreted language that is why it is slower than compiled languages.
+
+7)Dynamic_language
+    Java is a dynamic language. 
+    It supports the dynamic loading of classes. 
+    It means classes are loaded on demand. 
+
+8)Robust
+   The English mining of Robust is strong. 
+   Java is robust because:
+   -->It uses strong memory management.
+   -->There is a lack of pointers that avoids security problems.
+   -->Java provides automatic garbage collection which runs on the Java Virtual Machine.
+   -->There are exception handling and the type checking mechanism in Java. 
+
+9)Architecture-neutral
+    Java is architecture neutral because there are no implementation dependent features.
+    In C programming, int data type occupies 2 bytes of memory for 32-bit architecture and 4 bytes of memory for 64-bit architecture.
+    However, it occupies 4 bytes of memory for both 32 and 64-bit architectures in Java.
+
+10)Multi-Threaded
+    A thread is like a separate program, executing concurrently. 
+    The main advantage of multi-threading is that it doesn't occupy memory for each thread.
+
+
+  
+
+      
